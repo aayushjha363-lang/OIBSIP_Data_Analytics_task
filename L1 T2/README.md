@@ -1,6 +1,3 @@
-
----
-
 # Marketing Analytics: Customer Segmentation
 
 ## Project Overview
