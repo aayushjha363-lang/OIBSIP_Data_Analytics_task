@@ -1,6 +1,4 @@
 
----
-
 ## Project Overview
 
 This project examines the key factors that influence residential property prices and develops a **Linear Regression model** to estimate housing market values. By analyzing structural characteristics and property features, the model aims to identify relationships between housing attributes and price, enabling accurate price prediction based on the available dataset.
